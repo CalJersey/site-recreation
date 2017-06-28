@@ -16,12 +16,12 @@ h2 {
 img {
 
 }
-input {height: 22px; width: 122px; padding-left: 6px; border: 1px solid lightgrey; color: lightgrey; margin-right: 2px;
+input {height: 22px; width: 122px; padding-left: 6px; border: 1px solid lightgrey; color: lightgrey; margin-right: 7px;
 
 }
-button { height: 27px; width: 64px; background-color: #c0c0c0; border-radius: 4px; margin-left: 0px;
-
+button { height: 27px; background-color: #c0c0c0; border-radius: 4px; margin: 0px 12px 0px 0px;
 }
+
 nav {  margin: 0px; padding: 0px;}
 nav ul { margin: 22px 0px 0px 0px; padding: 0px 0px 14px 0px;
 
